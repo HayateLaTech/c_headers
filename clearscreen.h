@@ -1,0 +1,6 @@
+#ifndef CLEARSCREEN_H_INCLUDED
+#define CLEARSCREEN_H_INCLUDED
+
+void clearscr(void);
+
+#endif // CLEARSCREEN_H_INCLUDED
